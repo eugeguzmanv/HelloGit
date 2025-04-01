@@ -1,1 +1,1 @@
-print("New Hello GitHub")
+print("This new change must be committed")
